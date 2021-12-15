@@ -13,6 +13,8 @@
 - ⚡ Fun fact: ...
 -->
 
+</br>
+
 **Programming Languages**
 <div style="display: inline-block">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> 
