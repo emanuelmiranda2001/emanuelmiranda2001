@@ -42,5 +42,5 @@
  <div>
   <a href="https://www.linkedin.com/in/emanuel-miranda-089b71226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logocolor=white" target="_blank" /></a>
   <a href="mailto:emanuel-miranda2001@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logocolor=white" target="_blank" /></a>
-  <a href="https://www.facebook.com/emanuel.miranda.35175/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /></a>
+  <a style="fill: white" href="https://www.facebook.com/emanuel.miranda.35175/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /></a>
 </div>
