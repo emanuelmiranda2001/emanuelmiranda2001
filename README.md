@@ -23,7 +23,7 @@
  
  **Databases**
 <div style="display: inline-block">
-<img title="SQL" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+<img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
 </div>
 
 ##
