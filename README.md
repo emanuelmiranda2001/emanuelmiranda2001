@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Emanuel Miranda
+## Hi there 👋 I'm Emanuel Miranda
 
 
 - 🔭 I’m currently working on back-end and front-end
