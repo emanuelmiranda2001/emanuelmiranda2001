@@ -50,8 +50,8 @@
 **Design**
 <div style="display: inline-block">
   <img align="center" title="Adobe XD" alt="Adobe XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
-  <img align="center" title="Adobe Illustrator" alt="Adobe Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="center" title="Adobe Photoshop" alt="Adobe Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" title="Adobe Illustrator" alt="Adobe Illustrator" height="30" width="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg">
+  <img align="center" title="Adobe Photoshop" alt="Adobe Photoshop" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div></br>
 
 ##
