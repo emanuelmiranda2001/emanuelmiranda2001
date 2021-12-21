@@ -38,7 +38,7 @@
 **Libraries and Frameworks**
 <div style="display: inline-block">
   <img align="center" title="Laravel" alt="Laravel" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" title="Bootstrap" alt="Bootstrap" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" title="Bootstrap" alt="Bootstrap" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" title="Angular" alt="Angular" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
 </div></br>
 
