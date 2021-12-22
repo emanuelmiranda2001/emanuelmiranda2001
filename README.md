@@ -49,9 +49,9 @@
 
 **Design**
 <div style="display: inline-block">
-  <img align="center" title="Adobe XD" alt="Adobe XD" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
-  <img align="center" title="Adobe Illustrator" alt="Adobe Illustrator" height="35" width="35" src="https://icongr.am/devicon/illustrator-plain.svg?size=128&color=ff9a00">
-  <img align="center" title="Adobe Photoshop" alt="Adobe Photoshop" height="35" width="35" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=31a8ff">
+  <img align="center" title="Adobe Illustrator" alt="Adobe Illustrator" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">
+  <img align="center" title="Adobe Photoshop" alt="Adobe Photoshop" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
+  <img align="center" title="Adobe XD" alt="Adobe XD" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg">
 </div></br>
 
 ##
