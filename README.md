@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Emanuel Miranda
 
 
-- 🔭 I’m currently working on back-end and front-end
+- 🔭 I’m currently working on back-end with PHP and Laravel 
 - 🌱 I’m currently learning C++, C# and Flutter
 <!--
 - 👯 I’m looking to collaborate on ...
