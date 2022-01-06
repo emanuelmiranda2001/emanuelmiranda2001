@@ -26,6 +26,7 @@
   <img align="center" title="C++" alt="C++ Logo" height="35" width="35" src="https://icongr.am/devicon/cplusplus-plain.svg?size=128&color=00599c" />
   -->
 </div></br>
+<img align="right" title="Personal Logo " alt="Personal Logo" height="400" src="https://i.imgur.com/l1LsUnp.png">
 
 
 **Tools**
@@ -36,7 +37,6 @@
   <img align="center" title="Ubuntu" alt="Ubuntu Logo" height="35" width="35" src="https://icongr.am/simple/ubuntu.svg?size=128&color=e95420&colored=false">
 </div></br>
 <div>
-<img align="right" title="Personal Logo " alt="Personal Logo" height="300" src="https://i.imgur.com/l1LsUnp.png">
   
 **Libraries and Frameworks**
 <div style="display: inline-block">
