@@ -1,7 +1,10 @@
 <!-- Cabeçalho -->
 <div align="center">
 
-<img src="./banner.svg" alt="Emanuel Miranda — Back-end &amp; Front-end Web Developer" width="100%"/>
+# Emanuel Miranda
+
+**Back-end & Front-end Web Developer**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-miranda-089b71226/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuel-miranda2001@hotmail.com)
